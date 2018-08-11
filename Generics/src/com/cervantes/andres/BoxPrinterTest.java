@@ -12,7 +12,7 @@ public class BoxPrinterTest {
 		BoxPrinter<String> value2 = new BoxPrinter<>("Hello World");
 		System.out.println(value2);
 		
-		System.out.println("Version 2");
+		System.out.println("Version 3");
 	}
 
 }
