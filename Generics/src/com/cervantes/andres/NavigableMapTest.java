@@ -10,7 +10,7 @@ public class NavigableMapTest {
 		NavigableMap<Integer, String> examScores = new TreeMap<>();
 		
 		examScores.put(90, "Michael");
-		examScores.put(20, "Janis");
+		examScores.put(10, "Janis");
 		examScores.put(10, "Blah");
 		examScores.put(50, "Andres");
 		
