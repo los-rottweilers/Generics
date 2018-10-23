@@ -20,6 +20,8 @@ public class TestIterator {
 		}
 		
 		System.out.println( "List after removing all elements " + nums );
+	
+		nums.forEach(num -> System.out.println(num));
 	}
 
 }
